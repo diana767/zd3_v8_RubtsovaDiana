@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\rubtsova_zad3_ind\rubtsova_zad3_ind\bin\Debug\rubtsova_zad3_ind.exe.config
+C:\Users\User\Desktop\rubtsova_zad3_ind\rubtsova_zad3_ind\bin\Debug\rubtsova_zad3_ind.exe
+C:\Users\User\Desktop\rubtsova_zad3_ind\rubtsova_zad3_ind\bin\Debug\rubtsova_zad3_ind.pdb
+C:\Users\User\Desktop\rubtsova_zad3_ind\rubtsova_zad3_ind\obj\Debug\rubtsova_zad3_ind.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\rubtsova_zad3_ind\rubtsova_zad3_ind\obj\Debug\rubtsova_zad3_ind.Form1.resources
+C:\Users\User\Desktop\rubtsova_zad3_ind\rubtsova_zad3_ind\obj\Debug\rubtsova_zad3_ind.Properties.Resources.resources
+C:\Users\User\Desktop\rubtsova_zad3_ind\rubtsova_zad3_ind\obj\Debug\rubtsova_zad3_ind.csproj.GenerateResource.cache
+C:\Users\User\Desktop\rubtsova_zad3_ind\rubtsova_zad3_ind\obj\Debug\rubtsova_zad3_ind.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\rubtsova_zad3_ind\rubtsova_zad3_ind\obj\Debug\rubtsova_zad3_ind.exe
+C:\Users\User\Desktop\rubtsova_zad3_ind\rubtsova_zad3_ind\obj\Debug\rubtsova_zad3_ind.pdb
